@@ -1,0 +1,3 @@
+﻿  equal.cpp
+C:\Users\asd11\Documents\GitHub\leetcode\equal_row_and_col\equal_row_and_col\equal.cpp(7,11): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  equal_row_and_col.vcxproj -> C:\Users\asd11\Documents\GitHub\leetcode\equal_row_and_col\x64\Debug\equal_row_and_col_2352.exe
