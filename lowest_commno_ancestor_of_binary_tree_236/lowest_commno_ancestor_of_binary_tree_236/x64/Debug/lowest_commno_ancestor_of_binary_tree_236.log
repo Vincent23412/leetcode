@@ -1,0 +1,3 @@
+﻿  lowest.cpp
+C:\Users\asd11\Desktop\計算機程式設計\algo\Algo2024HW4411073088\lowest_commno_ancestor_of_binary_tree_236\lowest_commno_ancestor_of_binary_tree_236\lowest.cpp(39,16): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  lowest_commno_ancestor_of_binary_tree_236.vcxproj -> C:\Users\asd11\Desktop\計算機程式設計\algo\Algo2024HW4411073088\lowest_commno_ancestor_of_binary_tree_236\x64\Debug\lowest_commno_ancestor_of_binary_tree_236.exe

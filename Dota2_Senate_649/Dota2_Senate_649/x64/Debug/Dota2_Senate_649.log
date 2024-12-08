@@ -1,0 +1,3 @@
+﻿  dota.cpp
+C:\Users\asd11\Documents\GitHub\leetcode\Dota2_Senate_649\Dota2_Senate_649\dota.cpp(9,13): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Dota2_Senate_649.vcxproj -> C:\Users\asd11\Documents\GitHub\leetcode\Dota2_Senate_649\x64\Debug\Dota2_Senate_649.exe
