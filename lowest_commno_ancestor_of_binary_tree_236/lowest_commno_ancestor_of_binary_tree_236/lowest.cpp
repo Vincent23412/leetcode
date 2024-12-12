@@ -53,9 +53,7 @@ TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         else
             return target; 
     }
-
     return target; 
-
 }
 
 int main()

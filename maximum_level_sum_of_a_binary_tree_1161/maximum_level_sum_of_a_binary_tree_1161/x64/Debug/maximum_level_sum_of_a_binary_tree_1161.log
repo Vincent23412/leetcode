@@ -1,0 +1,3 @@
+﻿  maximum.cpp
+C:\Users\asd11\Documents\GitHub\leetcode\maximum_level_sum_of_a_binary_tree_1161\maximum_level_sum_of_a_binary_tree_1161\maximum.cpp(26,22): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  maximum_level_sum_of_a_binary_tree_1161.vcxproj -> C:\Users\asd11\Documents\GitHub\leetcode\maximum_level_sum_of_a_binary_tree_1161\x64\Debug\maximum_level_sum_of_a_binary_tree_1161.exe

@@ -1,0 +1,3 @@
+﻿  number_of_provinces.cpp
+C:\Users\asd11\Documents\GitHub\leetcode\number_of_provinces_547\number_of_provinces_547\number_of_provinces.cpp(8,11): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  number_of_provinces_547.vcxproj -> C:\Users\asd11\Documents\GitHub\leetcode\number_of_provinces_547\x64\Debug\number_of_provinces_547.exe

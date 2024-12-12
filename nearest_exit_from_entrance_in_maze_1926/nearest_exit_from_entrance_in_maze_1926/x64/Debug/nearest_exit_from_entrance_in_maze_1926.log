@@ -1,0 +1,4 @@
+﻿  nearest.cpp
+C:\Users\asd11\Documents\GitHub\leetcode\nearest_exit_from_entrance_in_maze_1926\nearest_exit_from_entrance_in_maze_1926\nearest.cpp(16,8): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\asd11\Documents\GitHub\leetcode\nearest_exit_from_entrance_in_maze_1926\nearest_exit_from_entrance_in_maze_1926\nearest.cpp(17,8): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  nearest_exit_from_entrance_in_maze_1926.vcxproj -> C:\Users\asd11\Documents\GitHub\leetcode\nearest_exit_from_entrance_in_maze_1926\x64\Debug\nearest_exit_from_entrance_in_maze_1926.exe
